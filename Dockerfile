@@ -1,6 +1,6 @@
-FROM node:10
+FROM node:14
  
-FROM node:10
+FROM node:14
 
 LABEL "com.github.actions.name"="Github Build & Deploy Action"
 LABEL "com.github.actions.description"="This action will auto deploy to target branch when it get triggered"
